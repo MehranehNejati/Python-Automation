@@ -1,0 +1,7 @@
+
+Run started at 2025-03-06 15:05:23.607367
+Moved doc.pdf to documents
+Moved note.txt to text
+Moved organize_log.txt to text
+Moved pic.jpg to images
+Moved screenshot.png to images
